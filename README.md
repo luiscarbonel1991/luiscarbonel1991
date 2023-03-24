@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @luiscarbonel1991
+- 👋 Hi, I’m @**luiscarbonel1991**
 - 👀 I’m interested in Software
-- 🌱 I’m currently learning kotlin, scala and react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on [DevLach](https://devlach.com)
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/luiscarbonel91/)
 
 <!---
 luiscarbonel1991/luiscarbonel1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
